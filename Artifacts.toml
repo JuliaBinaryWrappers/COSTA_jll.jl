@@ -1,0 +1,726 @@
+[[COSTA]]
+arch = "aarch64"
+git-tree-sha1 = "20883babe66409288697db675841a343df904e6f"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[COSTA.download]]
+    sha256 = "148cf5016b5a9c32aa8af692f600fd08c75069cccf2b10ca3331d6a79011852c"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+git-tree-sha1 = "39266372a1cd78d6bbc0c698ede0083eeda30bd1"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[COSTA.download]]
+    sha256 = "e0acfd64a137e3388886988949f3e9679d3e709ea3f58d17987b5069efe3049b"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+git-tree-sha1 = "74ff8487307663814ce18522914cf5aeae55c610"
+lazy = true
+mpi = "openmpi"
+os = "macos"
+
+    [[COSTA.download]]
+    sha256 = "415a73a88bb507f13571d710a42938643cc0ca09bdc932b3a0ff77a97aec4d3e"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a0ad63ad178427a5d874c26e077f77ae3909a6c"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "e34b24355d455245e6cb9dad8e918cc1b39fef6765e108112f2fa971a93bbaa5"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e86b080fb6ac8692f18c0ff689ea3a112ed1421"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "920d8a0ea6ef22e40a56058423abb5308d0a4b04a88f23994f0dde792b146198"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c4b37fe075900019ea0a27fa1ce6689346c78773"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "c9a94791b4e78917ed6ba4be863d7df42491e81dfc6b7024e6e404b082e0ec0a"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c98b4a21494b5ff499ebf346eab2f1fab7f206a3"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "d2e2aa228e28b3ac700efe1d7a8a6b7001b19e5cd7e773d6eb29ff36a09aaf32"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "098b3509f20a9535eb58702b48c56b88d220f016"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "2f7268e4dfc52163e2676dd2eddb8bd98439eb904f91e5e72606c1ce57d5671f"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be785e965b68ce2fa8f20d71e657b50594deb751"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "b61dd4d502e365cdaeaa87a4a5ec7bcc794390baf15ce0ad201d3d3af6821733"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80acc324f152eb55b090c6ff5b88b8cf633c6312"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "7e68aee7a1adc37a9e4e944b0eb3c891cc7b48fe83cc2c67fb2fd0aafade1f03"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0335e14fc3995667726b8f720f0325ba386285ba"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "defdba9c3491b4c3d21cdcdac79059db156d62ece946aeecbe03119229da6e23"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f69359190c4f596a9caac389f27b6f01284098a"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "695e0b3ba2223689644d81a7e872142c2ba9049c1f0d3d3e268145a759fbc2e2"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6d8323a1ea97384d72d37f9074c494a259cde6e"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "e4a1bf6e0204c472f2685560a9cc1fbc6fd0994da9c5421e1a50efc37604eb6d"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cfc8f07d90d571b087942e56143735778adb4e73"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "d180c934f0f87cb0fecf3f8afecd4aaff458641c1ab2f3189bae19bc9ff178bd"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "abf52a23e4416f36a83928c534a82315ebdf4439"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "ff1896cfc9eda1421c1d6a8afb86274ddf00eb92bc7651fe7fa35a357bb8ee90"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "92114d7dc870d455a29c24af13f548b9f17f2818"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "a3ef58428d55b96e3c3eca68f3b970dc8d4a5d2031e32fe13cee3e6a0d802352"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c33ed67ffce908038f780304f5ce3d8fb03022ac"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "f4d08c1c42bfc464937dfceea4b6501dc276d8f85dabe03114f0fbfd5b4cae75"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d8e4746241e05daef84b4dbf1918b318f254706a"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "5bf0a59e673d86e7d02de2d1caec70b593f9404458d9f2984b4fc45b1de402c7"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3be0788d4872400e0c6c4678ead60e91fbd52e96"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "79b6eef42bd9ad6fd055e0b41ac8f33aa2b8db8d0bbe52b8d2bc32d4156770df"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b274b65e7df00c3f6ba744ab2e4fcf18cd13261b"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "23e3fc0be77e3970fd1347e456fbcd728ca39b44aed4ae5ad4fbb435260792b0"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4ae1bb18b212d5cbd15224894bcf80555212176"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "d74812c0ce269f0bb8e2db78585a5072f1594723347ccf9ec18d66c134fe7d69"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6afc06f8e71c79f284c2e6755bc72631adbca4ea"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "61d88fe2f2df7b58d460c5f146db01a97d2c45ffa1c73d28d2e3919245f7fd1c"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f33b685a7a503d0ebdb3670fe99ccf136f7987c"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "fbc716171e125089c02bf171c51410c92cec2deae55a859858b3faa4b16b886a"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9f9290fd5df02a5b1ad040d3fd7c6112e01f7921"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "a21eec5252e993dff7c06e572bab909b96d14c5fd2adc53d3c5bc3707211b621"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d3e5347e4bf52aea87c525720b96ab3edfcb9cf"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "9daeb46bfbaebc31f1444f3979f70ed10aa411522aa3da4a8180ca01445e024b"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "027a30aedf827cf2e8777a53ddeca3ee2334826e"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "20c6085cb3395c2ce29590c24a24fc977068bc05813d8017153f777249165adc"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1bfacd59043f9daf4b3fb292dd27b7dd192aaa50"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "9c7d8611e8a69ed883954bd91c620f9b11806f4460d76a3cccd28e42365cf8a9"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6d6fdc5f41bb8e793bc0a382e6e45352dfe6a751"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "5f740108385f0c4e25778d55da20fbdd140689c9c6dc7822de746232542a7d03"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6fd06a8c4466615300f571fd94c2d422f89e390d"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "5d1dce76460ef3562541569eb774f21f01c09cb0497463b428b6296ea64eec28"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24894b82fbe0ba2a0c4b318119ebcac07fcfc029"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "6762f9466edc6f9bf085b8712545e073a0f31cec7801f46a955c1568d57dd453"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "716e1f2d2b8e48ab4774dd8dc9b6635f9e2c8858"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "b6198f76386cba53b1788cb2740e62f4ba060ff3ac2d33837b93f09359098e77"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9ff1dbdf9969f34d13b71949d8df3605a183e466"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "00311ccc9edd6ef1cabc560f39d5096146d46e6b620b63d54a6cd9805e2d594c"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba23c5a2a303214c048fd7bd28e6e21085be4ecf"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "1d0c6c48008610978db15e53707aedf755676d103596ba6e3949506d6901c086"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a13270c4151cb25f97e6121a2154b87bd1111299"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "3921d5e539cb94da296dce3f91bf1b1b172c4cf4aa5cd72c2170ed33f9a4ffb9"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e78fc002cf603ad4ec6abef7c0570d90d6a570e8"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "6bca89edc7a472f74ceae67299ba3200195a1cbad408ff02db792a194af9268b"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a57662b8f5f14b6f581b3308138f5e8c0e813105"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "fa2e7ba74c3118ef19023bf226e1e6da87d9c79c1e269fa33a47237ac1d46f50"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6394ea80fc30b48a8bc59e2fe9b951af2693e3c9"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "711694a2ca22582e634538947fe37ed482dc35194a0e3973f7a0ac0e8abfb9ff"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c4e87bf1c458f24d60530e7ef4c014d643e69771"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "97465d8fc614464c12b8e3470e2942bc8baa3d663f2dea3cebc5a454e3694832"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eca38d193f0e64a980b21c82e5950d45fe778723"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "982ab79701b975c4a08c4c081bb93efac8d61ad47b651259a760282d34a9fa16"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c005ad55c0425e7a2e23fe327a4a2398cc3d14b0"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "f62a6b046ada1250e8974a5ad4966e61ac2e9cee04f17896c126559322399e5a"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0107959164f5fc96077dd51e36a0a2363f27ba98"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "4b9a560961afeb54c830381028f47029612249bf9e241667ed56aa2481908524"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9d54bf56308a021a7aa1674dd54175382246dba1"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "4834c1bdf58f4200dbb99f10fd621f078ed9ce0fcd5b83d2d0692a2c17d0f157"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "092cd1e971af24b794f21dbcd54d2f5a860d421d"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "333d458ff8e5c485eb958d5af796552816bcac818040a7844c5f8d3371f5f761"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a2b20a5564d59d8694380ff11b7a7ce39d525742"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "b0ec2632a2a14f532cd46e588f7c32b64180c121b9a2e883f3700c4216740668"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "41c8ea72adef0c6ff2aff95c329de50b127b4954"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "52b6271fe4bb0e461c492f499695c137ad19000e6f816d0c797b0d5508c09ebc"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f79e4311aadda69e814d3ba99597fa40cb57f015"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "0fa34615d1ba417f2e754d0f21bd64d490b89d3db10289978dd58bc311ae9b5d"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f59b636e19d7777915be56ddb09e82fb5a13c60a"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "66da064392258ab5f27d2f6e482a04a8504ce0c70318dc4f0f0095547f2d2bde"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+git-tree-sha1 = "98f4276d6f8c3fb2b563b3859ed66ff81c19060e"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[COSTA.download]]
+    sha256 = "9ee36bdbdc02c0e6936fe45a6d53982337d7c256bee8f5a7cfea1414f29f490a"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+git-tree-sha1 = "a68aa0b0e49f935c558602e2bc8c89450d7700ee"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[COSTA.download]]
+    sha256 = "d4a57803d5577e8a4385b6b02f8b9fdc204d19d9533879e923b7c3b92a072602"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+git-tree-sha1 = "65e0f94d19306eee40cc0d441693640447ed8895"
+lazy = true
+mpi = "openmpi"
+os = "macos"
+
+    [[COSTA.download]]
+    sha256 = "bbe861aa5003baa4a62d438fa3a18a0de09784ae290d7366299fb9467ea0c371"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "84320874b2d00c33fff512c9bd20501581d9856a"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "d1743216cd749ae5a7d8b49d4f67fde011542ffa4863387ebe1811291810a4e0"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57048fb415803c698e3b1de64212e1ddd171107c"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "8617d83f1a9a694a73e1b930fbf69aa23a884eaf573ce4496ac3ebc6d9401536"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ecbff9fd5fba56742079916ec81cd2a40a40bd80"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "34ff36a6a46b2f946688555a0270a86deba567309abf4dba26c36ab5e20d3adc"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f42d50acb56b9d57fff2f55d3effc6b7b77044f"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "44af154c57acff4c11fb442b3b44c433b06207c220884d971aa2d57e2a192b22"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26929ded5cfeec9248ae2b2f7dd07512142dcfe4"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "7607344590a7a33da2afd11b3eedfce45e2bc79b28a9b8316c55495ecf5cda8e"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9796c082024c59643a550bbc9f221faebaedfbcc"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "cfe6d77a02269046d15a5476357d5d4d903bdf9c64ed529e2e5630188c7f5356"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a0cd5f432510b0eca2b16cee085bfd0c65b46d60"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "1ce8d0bb92e73df633927d8b7af5b75a99b004727f561cee6bd15a372db611e0"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ecb8455c4ca2f8c93fa77bb32c4e21209d0c9490"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "7970ae3d6456b5474b87c8f4687cbb2c23e4c7760a961aa9a534b9786787dff4"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b797f429b9c8610913a406f27ead5a7174654920"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "a6dddcbdeeef87d9b3a452780d9522ed86ebb70df662d658934714ccf09f2d5f"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[COSTA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f27c7e6af84c6a8c3a67427cfd3843d7b164c2e1"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[COSTA.download]]
+    sha256 = "799b57290d7acf7de1ccebbb5f1380f3a8baa86f6255a1da657b7866fceed4a5"
+    url = "https://github.com/JuliaBinaryWrappers/COSTA_jll.jl/releases/download/COSTA-v2.2.2+0/COSTA.v2.2.2.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
